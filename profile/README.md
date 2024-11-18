@@ -6,3 +6,5 @@ Es titular de los siguientes servicios públicos: Ciclo Integral del Agua (Abast
 Iruñerriko Mankomunitatea ingurumenarekiko konpromisoa hartua duen toki-erakundea da, eta bere helburua da Iruñerrian bizi-kalitatea hobetzen laguntzea. 50 udalerrik eratzen dute, haien artean Iruñeak, eta 365.000 biztanle hartzen ditu.
 Zerbitzu publiko hauen titularra da: Uraren Ziklo Integrala (Hornidura, Saneamendua eta Hondakin-uren arazketa), Hondakinen bilketa eta tratamendua, Eskualdeko Hiri Garraioa, Taxi-zerbitzua eta Iruñerriko Ibai Parkea.
 Erakundearen enplegu-eskaintzak eta albiste aipagarrienak aurkituko dituzu orrialde honetan.
+
+[Accede a la web](https://www.mcp.es)
